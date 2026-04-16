@@ -74,106 +74,64 @@ ecom_store
 ## 📸 Screenshots
 
 ### ➕ Adding Customers
-![Add Customers](D:/RnW project work/SQL Projects/PR_1/add_customers.png)
+![Add Customers](Screenshots/add_customers.png)
 
 ### 👥 All Customers (After Update)
-![Customer Data](D:/RnW project work/SQL Projects/PR_1/update_address.png)
+![Customer Data](Screenshots/update_address.png)
 
 ### 🔍 Specific Customer — Ananya Chatterjee
-![Specific Customer](D:/RnW project work/SQL Projects/PR_1/Specific_customer.png)
+![Specific Customer](Screenshots/Specific_customer.png)
 
 ### 🗑️ After Deleting Customer #5
-![Delete Customer](D:/RnW project work/SQL Projects/PR_1/Delete_customer.png)
+![Delete Customer](Screenshots/Delete_customer.png)
 
 ---
 
 ### 📋 All Orders (Initial Insert — 5 rows)
-![All Orders](D:/RnW project work/SQL Projects/PR_1/Update_amt.png)
+![All Orders](Screenshots/Update_amt.png)
 
 ### 🔍 Orders for Customer #1
-![Show Orders](screenshots/Show_orders.png)
+![Show Orders](Screenshots/Show_orders.png)
 
 ### 🗑️ After Deleting Order #5
-![Delete Order](screenshots/Delete_order.png)
+![Delete Order](Screenshots/Delete_order.png)
 
 ### 📅 Orders in Last 30 Days
-![Orders Greater Than 30 Days](screenshots/Greaterthan30_days.png)
+![Orders Greater Than 30 Days](Screenshots/Greaterthan30_days.png)
 
 ### 📊 Highest, Lowest & Average Order Amount
-![High Low Avg](screenshots/high_low_avg.png)
+![High Low Avg](Screenshots/high,low,avg.png)
 
 ---
 
 ### 🏷️ Products Table
-![Products Table](screenshots/Products_table.png)
+![Products Table](Screenshots/Products_table.png)
 
 ### 🔽 Products Sorted by Price (Descending)
-![Sort Price Desc](screenshots/sort_price_desc.png)
+![Sort Price Desc](Screenshots/sort_price_desc.png)
 
 ### ✏️ After Price Update (Wireless Earbuds → ₹3999)
-![Product Price Update](screenshots/product_price_update.png)
+![Product Price Update](Screenshots/product_price_update.png)
 
 ### 💰 Products Between ₹500–₹2000
-![Price Between 500 2000](screenshots/price_bw_500_2000.png)
+![Price Between 500 2000](Screenshots/price_bw_500_2000.png)
 
 ### 🏆 Most Expensive & Cheapest Product
-![Expensive Cheapest Product](screenshots/Expensive_cheapest_product.png)
+![Expensive Cheapest Product](Screenshots/Expensive_cheapest_product.png)
 
 ---
 
 ### 🧾 Order Details — Specific Order (OrderID = 1)
-![Specific Order ID](screenshots/specific_orderID.png)
+![Specific Order ID](Screenshots/specific_orderID.png)
 
 ### 💹 Total Revenue from All Orders
-![Total Revenue](screenshots/Total_revenue.png)
+![Total Revenue](Screenshots/Total_revenue.png)
 
 ### 🥇 Top 3 Most Ordered Products
-![Top 3 Ordered](screenshots/Top_3_ordered.png)
+![Top 3 Ordered](Screenshots/Top_3_ordered.png)
 
 ### 🔁 Mechanical Keyboard Order Frequency
-![Order Frequency Mech Keyboard](screenshots/order_frequency_of_mech_keyboard.png)
-
----
-
-## 📊 Sample Query Results
-
-### 🔹 All Orders for Customer #1
-| OrderID | CustomerID | OrderDate  | TotalAmount |
-|---------|------------|------------|-------------|
-| 1       | 1          | 2026-04-10 | 1500.50     |
-| 4       | 1          | 2026-04-13 | 450.25      |
-
-### 🔹 Highest, Lowest & Average Order Amount
-| HighestAmount | LowestAmount | AvgAmount    |
-|---------------|--------------|--------------|
-| 2750.00       | 450.25       | 1424.937500  |
-
-### 🔹 Most Expensive & Cheapest Product
-| Most_Expensive | Cheapest |
-|----------------|----------|
-| 4500.00        | 1299.00  |
-
-### 🔹 Products Between ₹500–₹2000
-| ProductID | ProductName         | Price   | Stock |
-|-----------|---------------------|---------|-------|
-| 1         | Cotton Formal Shirt | 1299.00 | 50    |
-
-### 🔹 Total Revenue
-| Total_Revenue |
-|---------------|
-| 14796.50      |
-
-### 🔹 Top 3 Most Ordered Products
-| ProductID | Total_Quantity |
-|-----------|---------------|
-| 1         | 2             |
-| 4         | 1             |
-| 2         | 1             |
-
-### 🔹 Mechanical Keyboard Order Frequency
-| ProductID | Ordered_Frequency |
-|-----------|-------------------|
-| 5         | 1                 |
+![Order Frequency Mech Keyboard](Screenshots/order_frequency_of_mech_keyboard.png)
 
 ---
 
@@ -205,17 +163,16 @@ data-digger/
 ├── Ecom_store.sql          # Main SQL file with all queries
 ├── README.md               # Project documentation
 │
-└── screenshots/
+└── Screenshots/
     ├── add_customers.png
     ├── update_address.png
     ├── Specific_customer.png
-    ├── Cust_data.png
     ├── Delete_customer.png
     ├── Show_orders.png
     ├── Update_amt.png
     ├── Delete_order.png
     ├── Greaterthan30_days.png
-    ├── high_low_avg.png
+    ├── high,low,avg.png
     ├── Products_table.png
     ├── sort_price_desc.png
     ├── product_price_update.png
@@ -224,7 +181,8 @@ data-digger/
     ├── specific_orderID.png
     ├── Total_revenue.png
     ├── Top_3_ordered.png
-    └── order_frequency_of_mech_keyboard.png
+    ├── order_frequency_of_mech_keyb....png
+    └── by_aman.png
 ```
 
 ---
