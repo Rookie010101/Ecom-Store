@@ -74,21 +74,21 @@ ecom_store
 ## 📸 Screenshots
 
 ### ➕ Adding Customers
-![Add Customers](screenshots/add_customers.png)
+![Add Customers](D:/RnW project work/SQL Projects/PR_1/add_customers.png)
 
 ### 👥 All Customers (After Update)
-![Customer Data](screenshots/update_address.png)
+![Customer Data](D:/RnW project work/SQL Projects/PR_1/update_address.png)
 
 ### 🔍 Specific Customer — Ananya Chatterjee
-![Specific Customer](screenshots/Specific_customer.png)
+![Specific Customer](D:/RnW project work/SQL Projects/PR_1/Specific_customer.png)
 
 ### 🗑️ After Deleting Customer #5
-![Delete Customer](screenshots/Delete_customer.png)
+![Delete Customer](D:/RnW project work/SQL Projects/PR_1/Delete_customer.png)
 
 ---
 
 ### 📋 All Orders (Initial Insert — 5 rows)
-![All Orders](screenshots/Update_amt.png)
+![All Orders](D:/RnW project work/SQL Projects/PR_1/Update_amt.png)
 
 ### 🔍 Orders for Customer #1
 ![Show Orders](screenshots/Show_orders.png)
